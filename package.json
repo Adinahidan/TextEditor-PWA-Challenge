@@ -23,7 +23,8 @@
     "workbox-webpack-plugin": "^7.0.0"
   },
   "devDependencies": {
-    "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "concurrently": "^8.2.0",
+    "nodemon": "^3.0.1",
+    "webpack": "^5.88.1"
   }
 }
