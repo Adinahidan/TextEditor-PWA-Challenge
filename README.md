@@ -20,12 +20,12 @@ Open a web browser and visit http://localhost:3000 to access the Text Editor app
 
 ## Technologies Used
 
-JavaScript
-HTML
-CSS
-IndexedDB
-webpack
-Workbox
+-JavaScript
+-HTML
+-CSS
+-IndexedDB
+-webpack
+-Workbox
 
 
 ## Deployment
